@@ -712,13 +712,13 @@ console.log(answer1);
 
 // console.log(answer2s);
 
-const answer3 = sales.reduce((acc, item) => {
+// const answer3 = sales.reduce((acc, item) => {
   
-  return acc + item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
+//   return acc + item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
 
-});
+// },0);
 
-console.log(answer3);
+// console.log(answer3);
 
 // const answer6 = sales.reduce((acc, item) => {
 //   if(!acc[item.type]){
@@ -762,7 +762,29 @@ console.log(answer3);
 
 
 // },{});
-// answer8.sort();
-// console.log(answer8)
+// let arrayAns = Object.entries(answer8);
+
+// let sorted = arrayAns.sort((a, b) => b[1] - a[1]);
+
+
+
+const answer9 = sales.reduce((acc, item) => {
+  if(!acc[item.customer]){
+    acc[item.customer] = 1;
+    return acc ;
+  } else {
+    acc[item.customer] += 1;
+    return acc
+  }
+}, {});
+
+
+// console.log(answer9);
+let arrayAns9 = Object.entries(answer9);
+// console.log(arrayAns9);
+
+let sorted = arrayAns9.sort((a, b) => b[1] - a[1]);
+
+console.log(sorted);
 
 
