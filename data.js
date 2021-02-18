@@ -70,7 +70,7 @@ const sales = [
       unitPrice: 48900
     },
     saleDate: '01-01-2021',
-    customer: 'Top',    
+    customer: 'Top',
     type: 'Credit'
   },
   {
@@ -82,7 +82,7 @@ const sales = [
       unitPrice: 4299
     },
     saleDate: '02-01-2021',
-    customer: 'Sun',    
+    customer: 'Sun',
     type: 'Credit'
   },
   {
@@ -108,7 +108,7 @@ const sales = [
     },
     saleDate: '02-01-2021',
     customer: 'Ham',
-    discount: 0.25,   
+    discount: 0.25,
     type: 'Credit'
   },
   {
@@ -121,7 +121,7 @@ const sales = [
     },
     saleDate: '02-01-2021',
     customer: 'Ham',
-    discount: 0.25,   
+    discount: 0.25,
     type: 'Credit'
   },
   {
@@ -146,7 +146,7 @@ const sales = [
       unitPrice: 48900
     },
     saleDate: '02-01-2021',
-    customer: 'Micky',    
+    customer: 'Micky',
     type: 'Credit'
   },
   {
@@ -170,7 +170,7 @@ const sales = [
       unitPrice: 19990
     },
     saleDate: '02-01-2021',
-    customer: 'Sila',       
+    customer: 'Sila',
     type: 'Airpay'
   },
   {
@@ -182,7 +182,7 @@ const sales = [
       unitPrice: 3399
     },
     saleDate: '02-01-2021',
-    customer: 'Top',       
+    customer: 'Top',
     type: 'Cash'
   },
   {
@@ -194,7 +194,7 @@ const sales = [
       unitPrice: 11990
     },
     saleDate: '03-01-2021',
-    customer: 'Cin',       
+    customer: 'Cin',
     type: 'Cash'
   },
   {
@@ -206,7 +206,7 @@ const sales = [
       unitPrice: 7999
     },
     saleDate: '03-01-2021',
-    customer: 'Cin',       
+    customer: 'Cin',
     type: 'Cash'
   },
   {
@@ -243,7 +243,7 @@ const sales = [
       unitPrice: 27900
     },
     saleDate: '03-01-2021',
-    customer: 'Micky',    
+    customer: 'Micky',
     type: 'Credit'
   },
   {
@@ -255,7 +255,7 @@ const sales = [
       unitPrice: 14999
     },
     saleDate: '04-01-2021',
-    customer: 'Bank',       
+    customer: 'Bank',
     type: 'Cash'
   },
   {
@@ -267,7 +267,7 @@ const sales = [
       unitPrice: 14999
     },
     saleDate: '04-01-2021',
-    customer: 'Bank',       
+    customer: 'Bank',
     type: 'Cash'
   },
   {
@@ -279,7 +279,7 @@ const sales = [
       unitPrice: 19990
     },
     saleDate: '04-01-2021',
-    customer: 'Leo',       
+    customer: 'Leo',
     type: 'Cash'
   },
   {
@@ -291,7 +291,7 @@ const sales = [
       unitPrice: 11990
     },
     saleDate: '04-01-2021',
-    customer: 'Game',       
+    customer: 'Game',
     type: 'Cash'
   },
   {
@@ -304,7 +304,7 @@ const sales = [
     },
     saleDate: '04-01-2021',
     customer: 'U',
-    discount: 0.3,   
+    discount: 0.3,
     type: 'Airpay'
   },
   {
@@ -316,7 +316,7 @@ const sales = [
       unitPrice: 48900
     },
     saleDate: '05-01-2021',
-    customer: 'Boy',    
+    customer: 'Boy',
     type: 'Credit'
   },
   {
@@ -328,7 +328,7 @@ const sales = [
       unitPrice: 19999
     },
     saleDate: '05-01-2021',
-    customer: 'Boom',       
+    customer: 'Boom',
     type: 'True Wallet'
   },
   {
@@ -340,7 +340,7 @@ const sales = [
       unitPrice: 10999
     },
     saleDate: '05-01-2021',
-    customer: 'Boom',       
+    customer: 'Boom',
     type: 'True Wallet'
   },
   {
@@ -352,7 +352,7 @@ const sales = [
       unitPrice: 11990
     },
     saleDate: '05-01-2021',
-    customer: 'Am',       
+    customer: 'Am',
     type: 'Cash'
   },
   {
@@ -377,7 +377,7 @@ const sales = [
     },
     saleDate: '06-01-2021',
     customer: 'Win',
-    discount: 0.25, 
+    discount: 0.25,
     type: 'Airpay'
   },
   {
@@ -389,7 +389,7 @@ const sales = [
       unitPrice: 19990
     },
     saleDate: '06-01-2021',
-    customer: 'Cin',       
+    customer: 'Cin',
     type: 'Cash'
   },
   {
@@ -415,7 +415,7 @@ const sales = [
     },
     saleDate: '07-01-2021',
     customer: 'Dom',
-    discount: 0.15,   
+    discount: 0.15,
     type: 'Credit'
   },
   {
@@ -427,7 +427,7 @@ const sales = [
       unitPrice: 27900
     },
     saleDate: '07-01-2021',
-    customer: 'Sern',    
+    customer: 'Sern',
     type: 'True Wallet'
   },
   {
@@ -439,7 +439,7 @@ const sales = [
       unitPrice: 14900
     },
     saleDate: '07-01-2021',
-    customer: 'Beer',       
+    customer: 'Beer',
     type: 'Cash'
   },
   {
@@ -452,7 +452,7 @@ const sales = [
     },
     saleDate: '07-01-2021',
     customer: 'Game',
-    discount: 0.2,      
+    discount: 0.2,
     type: 'Credit'
   },
   {
@@ -477,7 +477,7 @@ const sales = [
       unitPrice: 32900
     },
     saleDate: '07-01-2021',
-    customer: 'Tom',    
+    customer: 'Tom',
     type: 'Cash'
   },
   {
@@ -489,7 +489,7 @@ const sales = [
       unitPrice: 25900
     },
     saleDate: '08-01-2021',
-    customer: 'Ham',         
+    customer: 'Ham',
     type: 'Cash'
   },
   {
@@ -513,7 +513,7 @@ const sales = [
       unitPrice: 27900
     },
     saleDate: '08-01-2021',
-    customer: 'Cin',    
+    customer: 'Cin',
     type: 'True Wallet'
   },
   {
@@ -525,7 +525,7 @@ const sales = [
       unitPrice: 27900
     },
     saleDate: '08-01-2021',
-    customer: 'Tle',    
+    customer: 'Tle',
     type: 'Cash'
   },
   {
@@ -537,7 +537,7 @@ const sales = [
       unitPrice: 19990
     },
     saleDate: '09-01-2021',
-    customer: 'U',       
+    customer: 'U',
     type: 'Cash'
   },
   {
@@ -550,7 +550,7 @@ const sales = [
     },
     saleDate: '09-01-2021',
     customer: 'Am',
-    discount: 0.35,    
+    discount: 0.35,
     type: 'Airpay'
   },
   {
@@ -562,7 +562,7 @@ const sales = [
       unitPrice: 14999
     },
     saleDate: '10-01-2021',
-    customer: 'Sern',       
+    customer: 'Sern',
     type: 'Cash'
   },
   {
@@ -587,7 +587,7 @@ const sales = [
       unitPrice: 11990
     },
     saleDate: '10-01-2021',
-    customer: 'Jit',       
+    customer: 'Jit',
     type: 'Cash'
   },
   {
@@ -599,7 +599,7 @@ const sales = [
       unitPrice: 25900
     },
     saleDate: '10-01-2021',
-    customer: 'Snap',         
+    customer: 'Snap',
     type: 'True Wallet'
   },
   {
@@ -637,7 +637,7 @@ const sales = [
     },
     saleDate: '11-01-2021',
     customer: 'Leo',
-    discount: 0.05,      
+    discount: 0.05,
     type: 'Credit'
   },
   {
@@ -663,7 +663,7 @@ const sales = [
     },
     saleDate: '07-01-2021',
     customer: 'Um',
-    discount: 0.1,      
+    discount: 0.1,
     type: 'Cash'
   },
 ]
@@ -679,13 +679,13 @@ const sales = [
 // 9. เรียงลูกค้าที่ซื้อมากที่สุดจากมากไปน้อ
 
 
-let answer1 = sales.length;
-console.log(answer1);
+// let answer1 = sales.length;
+// console.log(answer1);
 
 // const answer2 = sales.reduce((accu, item)=> {
 //     if(!accu[item.customer]){
 //       accu[item.customer] = item.product.unitPrice - (item.product.unitPrice * (item.discount || 0)) ;
-     
+
 //       // console.log(accu); debugger
 //       return accu;
 //     } else {
@@ -700,9 +700,9 @@ console.log(answer1);
 //     if(!acc[item.customer]){
 //       console.log(acc[item.customer]);
 //       acc[item.customer] = 1;
-      
+
 //       return acc;
-      
+
 //     } else {
 //       acc[item.customer] += 1;
 //       return acc;
@@ -710,20 +710,36 @@ console.log(answer1);
 
 // },{})
 
-// console.log(answer2s);
+// console.log(answer2s); {sun:[66600, 2]}
+// item คือ {dataset ต้องใช้ item.name กับ item.unitprice กับ จำนวนเครื่อง}
 
-// const answer3 = sales.reduce((acc, item) => {
-  
-//   return acc + item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
 
-// },0);
+// const answer2 = sales.reduce((acc, item) => {
+//   if (!acc[item.customer]) {
+//     acc[item.customer] = { total: item.product.unitPrice, amount: 1 };
+//     return acc;
+//   } else {
+//     acc[item.customer]["total"] += item.product.unitPrice;
+//     acc[item.customer]["amount"] += 1;
+//     return acc;
+//   }
+// }, {});
+// console.log(answer2);
 
-// console.log(answer3);
+
+
+const answer3 = sales.reduce((acc, item) => {
+
+  return acc + item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
+
+}, 0);
+
+console.log(answer3);
 
 // const answer6 = sales.reduce((acc, item) => {
 //   if(!acc[item.type]){
 //     acc[item.type] = item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
-    
+
 //     return acc;
 //   } else {
 //     acc[item.type]  += item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
@@ -733,12 +749,37 @@ console.log(answer1);
 
 // },{});
 
+// const answer4 = sales.reduce((acc, item) => {
+//   if (!acc[item.product.name]) {
+//     acc[item.product.name] = { total: item.product.unitPrice, amount: 1 };
+//     return acc;
+//   } else {
+//     acc[item.product.name]["total"] += item.product.unitPrice;
+//     acc[item.product.name]["amount"] += 1;
+//     return acc;
+//   }
+// }, {});
+// console.log(answer4);
+// 5. สินค้าที่ถูกขายมีกี่รุ่นในแต่ละยี่ห้อ แต่ละรุ่นขายไปกี่เครื่อง และ ยอดรวมเท่าไหร่
+const answer5 = sales.reduce((acc, item) => {
+  if (!acc[item.product.name]) {
+    acc[item.product.name] = { model: item.product.model, total: item.product.unitPrice, amount: 1 };
+    return acc;
+  } else {
+    acc[item.product.name]["total"] += item.product.unitPrice;
+    acc[item.product.name]["amount"] += 1;
+    return acc;
+  }
+}, { iphone: {}, samsung: {}, Oppo: {}, Xiaomi: {}, Vivo: {} });
+console.log(answer5);
+
+
 // console.log(answer6);
 
 // const answer7 = sales.reduce((acc, item) => {
 //   if(!acc[item.saleDate]){
-//     acc[item.saleDate] = item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
-    
+//     acc[item.saleDate] = item.product.unitPrice - (item.product.unitPrice * (item.discount || ]0));
+
 //     return acc;
 //   } else {
 //     acc[item.saleDate]  += item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
@@ -751,40 +792,43 @@ console.log(answer1);
 
 // const answer8 = sales.reduce((acc, item) => {
 //   let productName = item.product.name + " " + item.product.model;
-//   if(!acc[productName]){
+//   if (!acc[productName]) {
 //     acc[productName] = item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
-    
+
 //     return acc;
 //   } else {
-//     acc[productName]  += item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
+//     acc[productName] += item.product.unitPrice - (item.product.unitPrice * (item.discount || 0));
 //     return acc;
 //   }
 
 
-// },{});
+// }, {});
+// console.log(answer8)
 // let arrayAns = Object.entries(answer8);
 
 // let sorted = arrayAns.sort((a, b) => b[1] - a[1]);
 
+// console.log(sorted);
 
 
-const answer9 = sales.reduce((acc, item) => {
-  if(!acc[item.customer]){
-    acc[item.customer] = 1;
-    return acc ;
-  } else {
-    acc[item.customer] += 1;
-    return acc
-  }
-}, {});
+
+// const answer9 = sales.reduce((acc, item) => {
+//   if (!acc[item.customer]) {
+//     acc[item.customer] = 1;
+//     return acc;
+//   } else {
+//     acc[item.customer] += 1;
+//     return acc
+//   }
+// }, {});
 
 
-// console.log(answer9);
-let arrayAns9 = Object.entries(answer9);
-// console.log(arrayAns9);
+// // console.log(answer9);
+// let arrayAns9 = Object.entries(answer9);
+// // console.log(arrayAns9);
 
-let sorted = arrayAns9.sort((a, b) => b[1] - a[1]);
-
-console.log(sorted);
+// let sorted = arrayAns9.sort((a, b) => b[1] - a[1]);
+// let sortedObj =
+//   console.log(sorted);
 
 
